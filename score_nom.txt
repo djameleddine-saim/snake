@@ -1,0 +1,3 @@
+djamel : 30000
+jerome : 0
+malik : 0
